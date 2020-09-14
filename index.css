@@ -1,0 +1,41 @@
+.gray-bg{
+    background-color: #f7f7f7;
+}
+.navbar-default{
+    background-color: green;
+    border: 1px solid black ;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+    background: transparent;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.login{
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 0 10px 20px 10px;
+}
+h4{
+    font-size: 15px;
+}
+p.small{
+    font-size: 14.2px;
+}
+.login-content{
+    background-color: #f7f7f7;
+    color: inherit;
+    padding: 15px 20px 20px 20px;
+}
+button:hover{
+    transform: scale(1.05);
+}
+hr{
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #eee;
+}
